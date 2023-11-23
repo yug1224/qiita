@@ -1,5 +1,13 @@
 {
-  "dependencies": {
-    "@qiita/qiita-cli": "^1.2.0"
-  }
+  "author": "Yuji Yamaguchi <yuji.yamaguchi24@gmail.com>",
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.3.0"
+  },
+  "license": "MIT",
+  "name": "qiita",
+  "repository": "https://github.com/yug1224/qiita.git",
+  "scripts": {},
+  "version": "1.0.0"
 }
