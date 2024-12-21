@@ -2,7 +2,7 @@
   "author": "Yuji Yamaguchi <yuji.yamaguchi24@gmail.com>",
   "description": "",
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.4.1"
+    "@qiita/qiita-cli": "^1.6.1"
   },
   "license": "MIT",
   "name": "qiita",
